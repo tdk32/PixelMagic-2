@@ -1,0 +1,11 @@
+﻿Build No: 408 
+- System now wont crash if multiple instances are launched, it will however only register hotkeys for the first instance launched.
+- Fixed some API commands which started with lower-case letter.
+- Keybinds are now file specific [Warning to Addon Authors keep this in mind when renaming your files]
+- Player is no longer considered in combat when mounted to prevent dismounts (to start rotation) while riding through stuff
+Build No: 409
+- Fixed Keybinds issue for custom Keybinds
+Build No: 410
+- Added new API WoW.IsOutdoors, returns boolean
+Build No: 1000
+- Discontinued and will shortly be detected and blocked by Blizzard
